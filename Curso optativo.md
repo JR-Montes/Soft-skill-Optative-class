@@ -39,7 +39,7 @@
 
 -
 
-###TEMARIO EN EXTENSO
+### TEMARIO EN EXTENSO
 
 **Módulo I: Artículos científicos (6 horas).**
 
@@ -279,4 +279,5 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
 
