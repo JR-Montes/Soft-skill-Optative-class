@@ -37,7 +37,7 @@ _____________
 3. Elaboración de presentación oral - 30%
 4. Asistencia - 10% 
 
--
+___
 
 ### TEMARIO EN EXTENSO
 
@@ -279,6 +279,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
 
 
 
