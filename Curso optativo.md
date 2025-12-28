@@ -109,7 +109,7 @@ Victor Moctezuma y Misael Daniel Mancilla Morales.
 5.3.	 Ronda de presentaciones finales con retroalimentación
 ```
 
----
+___
 
 **Módulo III: Carteles (12 horas). José Rubén Montes Montiel.**
 
@@ -168,7 +168,7 @@ Victor Moctezuma y Misael Daniel Mancilla Morales.
 12.2.	Coggle
 12.3.	Tyniwow
 ```
----
+___
 
 
 **Módulo IV: Presentación de gráficos en R y storytelling de visualizaciones (6 horas).** 
@@ -215,7 +215,7 @@ Miércoles 18 de febrero de 10 am a 1 pm
 15.7.	Otros
 
 ```
----
+____
 
 **Módulo V: Preparación para asistir a un evento académico (2 horas).**
 
@@ -233,7 +233,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 19.2.	Que hacer antes, durante y después del evento
 
 ```
--
+___
 ### Calendario:
  
  
@@ -247,7 +247,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 |**Lunes 23 de febrero** | **Martes 24 de febrero**| **Miécoles 25 de febrero**|      
 | José Rubén             |José Rubén               | José Rubén                |
 
----
+___
 
 ### Sofwares
 
@@ -279,6 +279,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
 
 
 
