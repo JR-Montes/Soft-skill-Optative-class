@@ -4,7 +4,7 @@
 ### Habilidades básicas para la elaboración de documentos académicos
 -
 
-###Profesores:
+### Profesores:
 
 >**Dra. Cecilia Cuatianquiz Lima (CTBC)**,
 **Dra. Stephanie Elizabeth Hereira Pacheco (CICB)**,
@@ -17,7 +17,7 @@
 
 -
 
-#### Número de horas: 35 horas.
+### Número de horas: 35 horas.
 -
 
 
@@ -234,7 +234,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 ```
 -
-###Calendario:
+### Calendario:
  
  
 | Lunes 2 de febrero     | Martes 3 de febrero     | Miécoles 4 de febrero     |
@@ -276,5 +276,6 @@ Lunes 16 de febrero de 10 am a 12 pm
 [Better Poster](http://betterposters.blogspot.com)
 
 [Posterpresentation](https://www.posterpresentations.com/free-poster-templates.html?srsltid=AfmBOoqAo48eirBOLWE8Dy4BgU0ez7tX_2EBBrQx8ROBiiGv01wXt5Vb)
+
 
  
