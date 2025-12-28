@@ -1,6 +1,6 @@
 
 ### Curso optativo
-_
+_________________________
 ### Habilidades básicas para la elaboración de documentos académicos
 -
 
@@ -279,6 +279,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
 
 
 
