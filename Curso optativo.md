@@ -12,9 +12,6 @@ _________________________
 **Dr. Victor Moctezuma (CTBC)** y
 **Dr. Misael Daniel Mancilla Morales (CTBC)**
 
-
-
-
 _________________________
 
 ### Número de horas: 35 horas.
@@ -237,14 +234,14 @@ ___
 ### Calendario:
  
  
-| Lunes 2 de febrero     | Martes 3 de febrero     | Miécoles 4 de febrero     |
+| Lunes 2 de febrero     | Martes 3 de febrero     | Miércoles 4 de febrero     |
 |------------------------|-------------------------|---------------------------|
 | **FESTIVO**            | Misael y Víctor         | Misael y Víctor           |
-| **Lunes 9 de febrero** | **Martes 10 de febrero**| **Miécoles 11 de febrero**|
+| **Lunes 9 de febrero** | **Martes 10 de febrero**| **Miércoles 11 de febrero**|
 | Cecilia                | Cecilia                 | Cecilia                   |
-| **Lunes 16 de febrero**| **Martes 17 de febrero**| **Miécoles 18 de febrero**|
+| **Lunes 16 de febrero**| **Martes 17 de febrero**| **Miércoles 18 de febrero**|
 | Misael y Víctor        | Stephanie               | Stephanie                 |
-|**Lunes 23 de febrero** | **Martes 24 de febrero**| **Miécoles 25 de febrero**|      
+|**Lunes 23 de febrero** | **Martes 24 de febrero**| **Miércoles 25 de febrero**|      
 | José Rubén             |José Rubén               | José Rubén                |
 
 ___
@@ -279,6 +276,7 @@ ___
 
 
  
+
 
 
 
