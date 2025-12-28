@@ -15,10 +15,10 @@ _________________________
 
 
 
--
+_________________________
 
 ### Número de horas: 35 horas.
--
+_________________________
 
 
 
@@ -29,7 +29,7 @@ _________________________
 4. Traer laptop/dispositivo personal 
 5. Instalar el software sugerido para el curso.
 
--
+_____________
 
 ### Criterios de evaluación:
 1. Elaboración de cartel - 30%
@@ -279,6 +279,7 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
 
 
 
