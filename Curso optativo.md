@@ -23,10 +23,10 @@
 
 
 ### Requisitos: 
-1. Asistencia (curso presencial), 
+1. Asistencia (curso presencial) 
 2. Registro
-3. Contar con cuenta de correo electrónico, 
-4. Traer laptop/dispositivo personal, 
+3. Contar con cuenta de correo electrónico 
+4. Traer laptop/dispositivo personal 
 5. Instalar el software sugerido para el curso.
 
 -
@@ -279,3 +279,4 @@ Lunes 16 de febrero de 10 am a 12 pm
 
 
  
+
