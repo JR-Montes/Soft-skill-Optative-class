@@ -1,0 +1,1 @@
+Este curso está dirigido a estudiantes y profesionistas que requieran habilidades básicas para preparación de documentos académicos como presentaciones orales, poster científicos, análisis de datos y creación de gráficos.
