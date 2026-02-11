@@ -1,12 +1,15 @@
 
-### Curso optativo
+### Curso académico
 _________________________
-### Habilidades básicas para la elaboración de documentos académicos
+### Comunicación científica II
+### Area Comportamiento y Biodiversidad
 _________________________
 
 ### Profesores:
 
->**Dra. Cecilia Cuatianquiz Lima (CTBC)**,
+**Dr. Amando Bautista (CTBC)**,
+**Dra. Lourdes Arteaga (CTBC)**,
+**Dra. Cecilia Cuatianquiz Lima (CTBC)**,
 **Dra. Stephanie Elizabeth Hereira Pacheco (CICB)**,
 **Dr. José Rubén Montes Montiel (CTBC)**,
 **Dr. Victor Moctezuma (CTBC)** y
@@ -15,6 +18,13 @@ _________________________
 _________________________
 
 ### Número de horas: 35 horas.
+### Horario: Jueves y Viernes 16:00-18:00 h (2 horas por día)
+### Horas por semana: 4
+### Periodo de tutorales: 29 de junio al 10 de julio
+### Periodo lectivo: Enero-Junio 2026
+### Inicio de clases: 3 febrero 2026
+### Fin de periodo escolar: 17 julio 2026
+
 _________________________
 
 
@@ -276,6 +286,7 @@ ___
 
 
  
+
 
 
 
