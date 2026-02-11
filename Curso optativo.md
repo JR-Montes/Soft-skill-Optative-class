@@ -1,58 +1,159 @@
 
-### Curso académico
-_________________________
+## Curso académico
+Planeación Semestre 2026-1
+-
 ### Comunicación científica II
-### Area Comportamiento y Biodiversidad
-_________________________
+#### Áreade Comportamiento y Biodiversidad
 
-### Profesores:
+-
 
-**Dr. Amando Bautista (CTBC)**,
-**Dra. Lourdes Arteaga (CTBC)**,
-**Dra. Cecilia Cuatianquiz Lima (CTBC)**,
-**Dra. Stephanie Elizabeth Hereira Pacheco (CICB)**,
-**Dr. José Rubén Montes Montiel (CTBC)**,
-**Dr. Victor Moctezuma (CTBC)** y
-**Dr. Misael Daniel Mancilla Morales (CTBC)**
+###Profesores:
 
-_________________________
-
-### Número de horas: 35 horas.
-### Horario: Jueves y Viernes 16:00-18:00 h (2 horas por día)
-### Horas por semana: 4
-### Periodo de tutorales: 29 de junio al 10 de julio
-### Periodo lectivo: Enero-Junio 2026
-### Inicio de clases: 3 febrero 2026
-### Fin de periodo escolar: 17 julio 2026
-
-_________________________
+>- **Dr. Amando Bautista (CTBC)**,
+- **Dra. Lourdes Arteaga (CTBC)**,
+- **Dra. Cecilia Cuatianquiz Lima (CTBC)**,
+- **Dra. Stephanie Elizabeth Hereira Pacheco (CICB)**,
+- **Dr. José Rubén Montes Montiel (CTBC)**,
+- **Dr. Victor Moctezuma (CTBC)** y
+- **Dr. Misael Daniel Mancilla Morales (CTBC)**
 
 
+-
 
-### Requisitos: 
+
+- **Horario: Jueves y Viernes 16:00-18:00 h (2 horas por día)**
+- **Horas por semana: 4**
+- **Periodo de tutorales: 29 de junio al 10 de julio**
+- **Periodo lectivo: Enero-Junio 2026**
+- **Inicio de clases: 3 febrero 2026**
+- **Fin de periodo escolar: 17 julio 2026**
+
+
+
+
+## Requisitos: 
 1. Asistencia (curso presencial) 
 2. Registro
-3. Contar con cuenta de correo electrónico 
-4. Traer laptop/dispositivo personal 
-5. Instalar el software sugerido para el curso.
+3. Contar con cuenta de correo electrónico, 
+4. Traer laptop/dispositivo personal, 
+5. Instalar los softwares sugeridos para el curso.
 
-_____________
+-
 
-### Criterios de evaluación:
-1. Elaboración de cartel - 30%
-2. Elaboración de un manuscrito con gestores de citas - 30%
-3. Elaboración de presentación oral - 30%
-4. Asistencia - 10% 
+## Criterios de evaluación:
+1. Sección Dr. Amando Bautista - **30%**
+2. Seccion "Habilidades básicas" - **30%**
+3. Semnarios del posgrado (incluye 90% de asistencia y participación  - **15%**
+4. Presentación de su trabajo de investigación en el seminario del posgrado - **15%**
+5. Actividades de divulgación científica, congresos o foros académicos - **10%**
 
-___
+-
+## Módulos
+
+| **Módulo**| Profesor                                      | Días | Horas | Número de clases|
+|-----------|-----------------------------------------------|------|-------|-----------------|
+|**I**      | Stephanie Pacheco                             | 3    |   9   | 4               |
+|**II**     | José Rubén Montes                             | 3    |   12  | 6               |
+|**III**    | Cecilia Cuatianquiz                           | 3    |   10  | 5               |
+|**IV**     | Víctor Moctezuma, Misael Mancilla y José Rubén| 3    |   9   | 4               |
+|**V**      | Víctor Moctezuma, Misael Mancilla y José Rubén| 1    |   3   | 1               |    
+
+
+---
+
+
+
 
 ### TEMARIO EN EXTENSO
 
-**Módulo I: Artículos científicos (6 horas).**
+#### Módulo I: Presentación de gráficos en R y storytelling de visualizaciones.
 
-Victor Moctezuma y Misael Daniel Mancilla Morales.
+**Stephanie Elizabeth Hereira Pacheco**
 
->Martes 3 de febrero de 10 am a 1 pm
+Visitar [Repositorio](https://github.com/Steph0522/Graficos_y_storytelling.git)
+
+---
+#### Módulo II: Diseño en carteles y artículos
+ 
+**José Rubén Montes Montiel.**
+
+* 1.	**Softwares y plantillas**
+
+```
+1.1.	Photoshop 
+1.2.	Illustrator
+1.3.    Affinity
+1.4.	Canva y Genially
+1.5.	BioRender y Better Poster
+1.6.	Posterpresentation
+```
+
+* 2.	**Formato y tamaño**
+
+```
+2.1.	Marco conceptual
+2.2.	Materiales y métodos
+2.3.	Resultados 
+2.4.	Discusión y conclusiones
+2.5.	Referencias bibliográficas
+2.6.	Agradecimientos
+
+```
+
+
+* 3.	**Criterios tipos gráficos y diseño**
+
+```
+3.1.	Fuente
+3.2.	Interlineado
+3.3.	Figuras
+3.4.	Gráficas
+3.5.	Estructura obligada del contenido
+3.6.	Normas adicionales
+3.7.	Formatos de entrega y materiales de impresión
+
+```
+
+* 4.	**Herramientas adicionales**
+
+```
+4.1.	QR Monkey
+4.2.	Coggle
+4.3.	Tyniwow
+4.4.   Freepik
+```
+---
+
+#### Módulo III: Presentaciones orales. 
+
+**Cecilia Cuatianquiz Lima.**
+
+
+* 1.	**Taller teórico**
+
+```
+4.1.	Introducción a las presentaciones orales
+4.2.	El discurso académico y su función en posgrado
+4.3.	Diseño conceptual del contenido
+4.4.	Apoyo visual especializado
+4.5.	Estrategias discursivas
+```
+
+* 2.	**Taller práctico**
+
+```
+5.1.	Elaboración de presentación individual o grupal
+5.2.	Ensayo frente al grupo
+5.3.	Ronda de presentaciones finales con retroalimentación
+```
+
+---
+
+
+#### Módulo IV: Artículos científicos 
+
+**Victor Moctezuma** y **Misael Daniel Mancilla Morales**
+
 
 * 1.	**Estructura del manuscrito**
 
@@ -69,194 +170,41 @@ Victor Moctezuma y Misael Daniel Mancilla Morales.
 >1.9.	Referencias
 ```
 
->Miércoles 4 de febrero de 10 am a 1 pm
 
-* 2 y 3.	**Gestores de citas**
+* 2.	**Gestores de citas**
 
 ```
-
 2.1.	Introducción a Mendeley
 2.2.	Introducción a Zotero
-3.	   A cerca de las revistas
-3.1.	Como elegir una revista científica
-3.2.	Revistas “depredadoras”
+2.3.   A cerca de las revistas
+2.4.	Como elegir una revista científica
+2.5.	Revistas “depredadoras”
 ```
 ---
 
-**Módulo II: Presentaciones orales (9 horas). Cecilia Cuatianquiz Lima.**
 
->Lunes 9 de febrero de 10 am a 1 pm
+#### Módulo V: Preparación para asistir a un evento académico
 
+**Victor Moctezuma** y **Misael Daniel Mancilla Morales**
 
-* 4.	**Taller teórico**
-
-```
-4.1.	Introducción a las presentaciones orales
-4.2.	El discurso académico y su función en posgrado
-4.3.	Diseño conceptual del contenido
-```
-
->Martes 10 de febrero de 10 am a 1 pm
+* 1.	**Eventos académicos**
 
 ```
-4.4.	Apoyo visual especializado
-4.5.	Estrategias discursivas
-```
-
-* 5.	**Taller práctico**
-
-```
-5.1.	Elaboración de presentación individual o grupal
-5.2.	 Ensayo frente al grupo
-```
-
->Miércoles 11 de febrero de 10 am a 1 pm
-
-```
-5.3.	 Ronda de presentaciones finales con retroalimentación
-```
-
-___
-
-**Módulo III: Carteles (12 horas). José Rubén Montes Montiel.**
-
-
->Lunes 23 de febrero de 10 am a 2 pm
-
-* 6.	**Softwares y plantillas**
-
-```
-6.1.	Photoshop 
-6.2.	Illustrator
-6.3.	Canva y Genially
-6.4.	BioRender y Better Poster
-6.5.	Posterpresentation
-```
-
-
-
-
->Martes 24 de febrero de 10 am a 2 pm
-
-
-* 7.	Formato y tamaño
-
-```
-7.1.	Marco conceptual
-7.2.	Materiales y métodos
-7.3.	Resultados 
-7.4.	Discusión y conclusiones
-7.5.	Referencias bibliográficas
-7.6.	Agradecimientos
+1.1.	Tipos de eventos académicos
+1.2.	Congresos
+1.3.	Simposios
+1.4.	Objetivos de asistir al evento
+1.5.	Cómo seleccionar un evento
+1.6.	Que hacer antes, durante y después del evento
 
 ```
 
-
->Miércoles 25 de febrero de 10 am a 2 pm
-
-
-* 8.	Criterios tipos gráficos y diseño
-
-```
-8.1.	Fuente
-8.2.	Interlineado
-8.3.	Figuras
-8.4.	Gráficas
-9.	Estructura obligada del contenido
-10.	Normas adicionales
-11.	Formatos de entrega y materiales de impresión
-
-```
-
-12.	Herramientas adicionales
-
-```
-12.1.	QR Monkey
-12.2.	Coggle
-12.3.	Tyniwow
-```
-___
-
-
-**Módulo IV: Presentación de gráficos en R y storytelling de visualizaciones (6 horas).** 
-
-Stephanie Elizabeth Hereira Pacheco
-
-
-> Martes 17 de febrero de 10 am a 1 pm 
-
-* 13.	**Gráficos en R**
-
-```
-
-13.1.	Sintaxis R básico
-13.2.	Sintaxis ggplot2
-13.3.	Barplots y boxplots
-13.4.	Gráficos de dispersión y líneas
-13.5.	Heatmaps o mapas de calor
-13.6.	Diagramas de Venn
-13.7.	Sankey plots
-13.8.	Lolipop plots
-13.9.	Gráficos de ordenación
-13.10.	Otros gráficos	
-
-```
-Miércoles 18 de febrero de 10 am a 1 pm
-
-
-* 14.	Storytelling de datos
-
-```
-14.1.	Importancia del contexto
-14.2.	Elegir elemento visual efectivo
-14.3.	Caos como enemigo
-14.4.	Atraer la atención del público
-14.5.	Pensar como diseñador
-15.	"Los amigos no dejan que sus amigos hagan malos gráficos”.
-15.1.	Los amigos no dejan que sus amigos hagan gráficos de barras para separar medias.
-15.2.	Los amigos no dejan que sus amigos usen escalas de color bidireccionales con datos unidireccionales.
-15.3.	Los amigos no dejan que sus amigos hagan mapas de calor sin reordenar filas y columnas.
-15.4.	Los amigos no dejan que sus amigos hagan gráficos de pastel.
-15.5.	Los amigos no dejan que sus amigos olviden reordenar las barras apiladas.
-15.6.	Los amigos no dejan que sus amigos usen boxplots para datos bimodales.
-15.7.	Otros
-
-```
-____
-
-**Módulo V: Preparación para asistir a un evento académico (2 horas).**
-
-Victor Moctezuma y Misael Daniel Mancilla Morales.
-
-
-Lunes 16 de febrero de 10 am a 12 pm
-
-```
-16.	Tipos de eventos académicos
-17.	Congresos
-18.	Simposios
-19.	Objetivos de asistir al evento
-19.1.	Cómo seleccionar un evento
-19.2.	Que hacer antes, durante y después del evento
-
-```
-___
-### Calendario:
  
- 
-| Lunes 2 de febrero     | Martes 3 de febrero     | Miércoles 4 de febrero     |
-|------------------------|-------------------------|---------------------------|
-| **FESTIVO**            | Misael y Víctor         | Misael y Víctor           |
-| **Lunes 9 de febrero** | **Martes 10 de febrero**| **Miércoles 11 de febrero**|
-| Cecilia                | Cecilia                 | Cecilia                   |
-| **Lunes 16 de febrero**| **Martes 17 de febrero**| **Miércoles 18 de febrero**|
-| Misael y Víctor        | Stephanie               | Stephanie                 |
-|**Lunes 23 de febrero** | **Martes 24 de febrero**| **Miércoles 25 de febrero**|      
-| José Rubén             |José Rubén               | José Rubén                |
+---
 
-___
+## Sofwares
 
-### Sofwares
+[Affinity](https://www.affinity.studio/es_es/get-affinity)
 
 [QR Monkey](https://www.qrcode-monkey.com/es/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=qr%20monkey_e&gad_source=1&gad_campaignid=13540879331&gbraid=0AAAAADwMzZQSVbHXdrG-j6rzUseEQgeS1&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3DIEyN2TqLHBTdYZZL3kpPqp1p7Iq185yOEvjAj_2ckicwRBaDXa7IaAksBEALw_wcB#email)
 
@@ -283,17 +231,4 @@ ___
 [Better Poster](http://betterposters.blogspot.com)
 
 [Posterpresentation](https://www.posterpresentations.com/free-poster-templates.html?srsltid=AfmBOoqAo48eirBOLWE8Dy4BgU0ez7tX_2EBBrQx8ROBiiGv01wXt5Vb)
-
-
- 
-
-
-
-
-
-
-
-
-
-
 
