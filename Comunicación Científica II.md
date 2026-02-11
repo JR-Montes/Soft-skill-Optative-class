@@ -5,7 +5,7 @@ Planeación Semestre 2026-1
 ### Comunicación científica II
 #### Áreade Comportamiento y Biodiversidad
 
--
+---
 
 ### Profesores:
 
@@ -231,6 +231,7 @@ Visitar [Repositorio](https://github.com/Steph0522/Graficos_y_storytelling.git)
 [Better Poster](http://betterposters.blogspot.com)
 
 [Posterpresentation](https://www.posterpresentations.com/free-poster-templates.html?srsltid=AfmBOoqAo48eirBOLWE8Dy4BgU0ez7tX_2EBBrQx8ROBiiGv01wXt5Vb)
+
 
 
 
